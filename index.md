@@ -13,4 +13,4 @@ Hello, my name is Krisztian Hofstadter. This is a multilingual website template 
 
 Have fun!
 
-## Blog
+## Translation Portfolio
